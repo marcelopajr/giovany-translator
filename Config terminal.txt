@@ -1,3 +1,0 @@
-Para rodar o Gatsby via Powershell no VSCode:
-1 - Abrir o Powershell em modo de Administrador e rodar o comando Set-ExecutionPolicy RemoteSigned
-2 - Quando terminar, abrir o Powershell em modo de Administrador e rodar o comando Set-ExecutionPolicy Restricted

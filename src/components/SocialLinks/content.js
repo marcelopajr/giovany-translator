@@ -4,7 +4,7 @@ const links = [
     url: "https://www.linkedin.com/in/giovany-almeida-1197691ba/",
   },
   {
-    label: "Profile",
+    label: "Proz",
     url: "https://www.proz.com/translator/2655736",
   },
   {

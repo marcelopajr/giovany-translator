@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Giovany Almeida`,
     position: `Translator`,
-    description: `Translation services that aim helping clients to reach an international audience.`,
+    description: `Helping clients to reach an international audience.`,
     author: `@marcelopajr`,
   },
   plugins: [

@@ -1,10 +1,10 @@
 import { Linkedin } from "@styled-icons/bootstrap/Linkedin"
-import { Profile } from "@styled-icons/icomoon/Profile"
+import { Profile as Proz } from "@styled-icons/icomoon/Profile"
 import { Email } from "@styled-icons/entypo/Email"
 
 const Icons = {
   Linkedin,
-  Profile,
+  Proz,
   Email,
 }
 

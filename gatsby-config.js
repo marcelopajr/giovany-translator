@@ -8,7 +8,7 @@ module.exports = {
     position: `Translator`,
     description: `Helping clients to reach an international audience.`,
     author: `@marcelopajr`,
-    siteUrl: `https://giovanyalmeida.netlify.app/index.html`,
+    siteUrl: `https://gioalmeida.netlify.app/index.html`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,
@@ -88,5 +88,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
   ],
 }

@@ -28,7 +28,8 @@ collections:
           label: "Category",
           name: "category",
           widget: "select",
-          options: ["jekyll", "css", "js", "html", "svg", "dev", "misc"],
+          options:
+            ["business", "jekyll", "css", "js", "html", "svg", "dev", "misc"],
         }
       - {
           label: "Background",
@@ -36,6 +37,7 @@ collections:
           widget: "select",
           options:
             [
+              { label: "Business", value: "#EB7728" },
               { label: "Jekyll", value: "#B31917" },
               { label: "CSS", value: "#2DA0C3" },
               { label: "JS", value: "#D6BA32" },

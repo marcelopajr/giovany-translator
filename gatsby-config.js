@@ -8,7 +8,7 @@ module.exports = {
     position: `Translator`,
     description: `Helping clients to reach an international audience.`,
     author: `@marcelopajr`,
-    siteUrl: `https://gioalmeida.netlify.app/index.html`,
+    siteUrl: `https://gioalmeida.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-transition-link`,

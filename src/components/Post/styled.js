@@ -217,3 +217,8 @@ export const MainContent = styled.section`
     }
   }
 `
+
+export const MainGrid = styled.section`
+  display: grid;
+  grid-template-columns: auto auto;
+`

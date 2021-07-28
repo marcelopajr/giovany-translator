@@ -72,7 +72,12 @@ const MenuBar = () => {
         >
           {isListMode ? <Grid /> : <List />}
         </S.MenuBarItem>
-        <S.MenuBarItem title="Back to top">
+        <S.MenuBarItem
+          title="Back to top"
+          onClick={() => {
+            window.scrollTo({ top: 0, behavior: `smooth` })
+          }}
+        >
           <Arrow />
         </S.MenuBarItem>
       </S.MenuBarGroup>

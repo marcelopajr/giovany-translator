@@ -29,7 +29,14 @@ collections:
           name: "category",
           widget: "select",
           options:
-            ["business", "jekyll", "css", "js", "html", "svg", "dev", "misc"],
+            [
+              "business",
+              "finance",
+              "human resourses",
+              "marketing",
+              "public relations",
+              "travel and tourism",
+            ],
         }
       - {
           label: "Background",
@@ -37,14 +44,12 @@ collections:
           widget: "select",
           options:
             [
-              { label: "Business", value: "#EB7728" },
-              { label: "Jekyll", value: "#B31917" },
-              { label: "CSS", value: "#2DA0C3" },
-              { label: "JS", value: "#D6BA32" },
-              { label: "HTML", value: "#EB7728" },
-              { label: "SVG", value: "#7D669E" },
-              { label: "Dev", value: "#637a91" },
-              { label: "Misc", value: "#7AAB13" },
+              { label: "Business", value: "#ffca3a" },
+              { label: "Finance", value: "#8ac926" },
+              { label: "Human Resources", value: "#f15946" },
+              { label: "Marketing", value: "#6a4c93" },
+              { label: "Public Relations", value: "#f18701" },
+              { label: "Travel and Tourism", value: "#1982c4" },
             ],
         }
       - { label: "Body", name: "body", widget: "markdown" }

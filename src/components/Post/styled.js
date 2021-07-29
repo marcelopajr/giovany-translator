@@ -49,6 +49,21 @@ export const PostDate = styled.p`
 `
 
 export const MainContent = styled.section`
+  #text-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  #text-table td,
+  #text-table th {
+    color: var(--postColor);
+  }
+
+  #text-table th {
+    text-align: left;
+    color: var(--postColor);
+  }
+
   margin: auto;
   max-width: 70rem;
   padding: 2rem 5rem;
@@ -218,11 +233,11 @@ export const MainContent = styled.section`
   }
 `
 
-export const MainGrid = styled.section`
-  display: grid;
-  grid-template-columns: auto auto;
+// export const MainGrid = styled.section`
+//   display: grid;
+//   grid-template-columns: auto auto;
 
-  ${media.lessThan("medium")`
-      display: block;
-    `}
-`
+//   ${media.lessThan("medium")`
+//       display: block;
+//     `}
+// `

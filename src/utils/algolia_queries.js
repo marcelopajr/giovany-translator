@@ -14,6 +14,7 @@ const postQuery = `{
           date
           description
         }
+        timeToRead
         excerpt(pruneLength: 5000)
       }
     }

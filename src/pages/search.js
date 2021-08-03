@@ -11,7 +11,7 @@ const algolia = {
 
 const SearchPage = () => (
   <Layout>
-    <SEO title="Giovany Almeida | Search" />
+    <SEO title="Search" />
     <Search algolia={algolia} />
   </Layout>
 )

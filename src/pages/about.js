@@ -5,7 +5,7 @@ import { MainContent } from "../components/Post/styled"
 
 const AboutPage = () => (
   <Layout>
-    <SEO title="Giovany Almeida | About" />
+    <SEO title="About" />
     <MainContent>
       <h1>About</h1>
       <p>

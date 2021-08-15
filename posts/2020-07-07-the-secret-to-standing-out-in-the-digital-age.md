@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: The Secret To Standing Out In The Digital Age
-description: O Segredo Para Se Destacar Na Era Digital
+description: O segredo para se destacar na era digital
 category: marketing
 background: "#6a4c93"
 ---

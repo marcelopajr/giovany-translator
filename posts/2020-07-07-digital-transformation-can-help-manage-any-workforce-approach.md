@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Digital Transformation Can Help Manage Any Workforce Approach
-description: A Transformação Digital Pode Ajudar A Gerenciar Qualquer Abordagem Da Força De Trabalho
+description: A transformação digital pode ajudar a gerenciar qualquer abordagem da força de trabalho
 category: human resourses
 background: "#f15946"
 ---

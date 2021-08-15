@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: What Are The Steps In Effective Workforce Planning?
-description: Quais São As Etapas Do Planejamento Eficaz Da Força De Trabalho?
+description: Quais são as etapas do planejamento eficaz da força de trabalho?
 category: human resourses
 background: "#f15946"
 ---

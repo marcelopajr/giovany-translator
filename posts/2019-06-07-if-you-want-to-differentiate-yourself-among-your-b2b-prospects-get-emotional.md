@@ -1,7 +1,7 @@
 ---
 date: June 7th 2019
 title: If You Want to Differentiate Yourself Among Your B2B Prospects, Get Emotional
-description: Se Você Deseja Se Diferenciar Entre Seus Potenciais Clientes B2B, Seja Emotivo
+description: Se você deseja se diferenciar entre seus potenciais clientes B2B, seja emotivo
 category: business
 background: "#ffca3a"
 ---

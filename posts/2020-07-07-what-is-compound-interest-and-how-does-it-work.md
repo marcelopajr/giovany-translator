@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: What is Compound Interest and How Does It Work
-description: O Que São Juros Compostos E Como Isso Funciona
+description: O que são juros compostos e como isso funciona
 category: finance
 background: "#8ac926"
 ---

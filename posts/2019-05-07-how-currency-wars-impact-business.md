@@ -1,7 +1,7 @@
 ---
 date: May 7th 2019
 title: How Currency Wars Impact Business
-description: Como As Guerras De Câmbio Impactam Os Negócios
+description: Como as guerras de câmbio impactam os negócios
 category: business
 background: "#ffca3a"
 ---

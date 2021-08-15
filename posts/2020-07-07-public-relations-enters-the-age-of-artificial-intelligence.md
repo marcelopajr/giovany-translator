@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Public Relations Enters The Age Of Artificial Intelligence
-description: Relações Públicas Entra Na Era Da Inteligência Artificial
+description: Relações públicas entra na era da inteligência artificial
 category: public relations
 background: "#f18701"
 ---

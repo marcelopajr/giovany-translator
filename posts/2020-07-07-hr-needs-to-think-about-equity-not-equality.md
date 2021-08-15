@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: HR Needs To Think About Equity, Not Equality
-description: O RH Precisa Pensar Sobre Equidade, Não Igualdade
+description: O RH precisa pensar sobre equidade, não igualdade
 category: human resourses
 background: "#f15946"
 ---

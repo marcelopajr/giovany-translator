@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: 5 Simple Ways To Keep Your Bank Account Secure
-description: 5 Maneiras Simples De Manter Sua Conta Bancária Segura
+description: 5 maneiras simples de manter sua conta bancária segura
 category: finance
 background: "#8ac926"
 ---

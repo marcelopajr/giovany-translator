@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Insights That The Travel Sector Should Take From ‘Seaspiracy’
-description: Ideias Que O Setor De Viagens Deve Tirar De "Seaspiracy"
+description: Ideias que o setor de viagens deve tirar de "Seaspiracy"
 category: travel and tourism
 background: "#1982c4"
 ---

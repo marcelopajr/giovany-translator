@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: The Sales and Marketing Alignment Gap
-description: A Lacuna De Alinhamento De Vendas E Marketing
+description: A lacuna de alinhamento de vendas e marketing
 category: marketing
 background: "#6a4c93"
 ---

@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: The Ultimate Guide on Applying for a Personal Loan
-description: O Guia Definitivo Sobre Como Solicitar Um Empréstimo Pessoal
+description: O guia definitivo sobre como solicitar um empréstimo pessoal
 category: finance
 background: "#8ac926"
 ---

@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Is Cruise Ship Travel Closer To Come Back?
-description: A Viagem De Navio De Cruzeiro Está Mais Perto De Voltar?
+description: A viagem de navio de cruzeiro está mais perto de voltar?
 category: travel and tourism
 background: "#1982c4"
 ---

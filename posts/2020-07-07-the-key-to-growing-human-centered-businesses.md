@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: The Key To Growing Human-centered Businesses
-description: A Chave Para O Crescimento De Negócios Centrados No Ser Humano
+description: A chave para o crescimento de negócios centrados no ser humano
 category: public relations
 background: "#f18701"
 ---

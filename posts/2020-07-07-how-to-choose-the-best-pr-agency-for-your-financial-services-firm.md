@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: How To Choose The Best PR Agency For Your Financial Services Firm
-description: Como Escolher A Melhor Agência De Relações Públicas Para Sua Empresa De Serviços Financeiros
+description: Como escolher a melhor agência de relações públicas para sua empresa de serviços financeiros
 category: public relations
 background: "#f18701"
 ---

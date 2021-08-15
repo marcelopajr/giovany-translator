@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Cryptocurrency 101 - Pros and Cons of Investing in Crypto
-description: Introdução à Criptomoeda - Os Prós E Contras De Investir Em Criptomoeda
+description: Introdução à criptomoeda - Os prós e contras de investir em criptomoeda
 category: finance
 background: "#8ac926"
 ---

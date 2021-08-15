@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Column On The Value Of Mentoring To Help Hotels Increase Profitability
-description: Artigo Sobre O Valor Da Mentoria Para Ajudar Os Hotéis A Aumentar A Lucratividade
+description: Artigo sobre o valor da mentoria para ajudar os hotéis a aumentar a lucratividade
 category: travel and tourism
 background: "#1982c4"
 ---

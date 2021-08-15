@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Aligning Business And Government On Climate Change
-description: Alinhando Negócios E Governo Nas Mudanças Climáticas
+description: Alinhando negócios e governo nas mudanças climáticas
 category: public relations
 background: "#f18701"
 ---

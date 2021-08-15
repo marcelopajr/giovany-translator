@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Employee Engagement Is a Financial Strategy
-description: O Engajamento Do Funcionário É Uma Estratégia Financeira
+description: O engajamento do funcionário é uma estratégia financeira
 category: human resourses
 background: "#f15946"
 ---

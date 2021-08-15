@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: The Expansion Of Travel And Tourism In The Middle East
-description: A Expansão Das Viagens E Turismo No Oriente Médio
+description: A expansão das viagens e turismo no Oriente Médio
 category: travel and tourism
 background: "#1982c4"
 ---

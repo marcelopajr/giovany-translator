@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Video Marketing
-description: Marketing De Vídeo
+description: Marketing de vídeo
 category: marketing
 background: "#6a4c93"
 ---

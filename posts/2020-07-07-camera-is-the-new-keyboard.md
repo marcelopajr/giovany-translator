@@ -1,7 +1,7 @@
 ---
 date: July 7th 2019
 title: Camera Is The New Keyboard
-description: A Câmera É O Novo Teclado
+description: A câmera é o novo teclado
 category: marketing
 background: "#6a4c93"
 ---

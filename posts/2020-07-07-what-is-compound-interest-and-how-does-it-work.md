@@ -69,7 +69,7 @@ background: "#8ac926"
   <td><p>Existem muitas calculadoras de juros compostos online. Você pode experimentar essa calculadora e ver por si mesmo.</p></td>
   </tr>
 
-   <tr>
+  <tr>
   <td><p><strong>Time is your best friend</strong></p></td>
   <td><p><strong>O tempo é seu melhor amigo</strong></p></td>
   </tr>

@@ -49,6 +49,7 @@ export const PostItemTag = styled.div`
   justify-content: center;
   min-height: 90px;
   min-width: 90px;
+  max-width: 90px;
   text-align: center;
   text-transform: uppercase;
 

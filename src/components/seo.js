@@ -50,7 +50,7 @@ function SEO({ description, lang, meta, title, image }) {
         },
         {
           property: `og:title`,
-          content: title` | Giovany Almeida`,
+          content: title,
         },
         {
           property: `og:description`,

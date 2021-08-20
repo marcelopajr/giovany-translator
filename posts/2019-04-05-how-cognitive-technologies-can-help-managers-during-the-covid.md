@@ -3,7 +3,7 @@ date: April 5th 2019
 title: How Cognitive Technologies Can Help Managers During The Covid
 description: Como as tecnologias cognitivas podem ajudar os gerentes durante a crise de covid-19
 category: business
-background: "#ffca3a"
+background: "#f6ae2d"
 ---
 
 <div>

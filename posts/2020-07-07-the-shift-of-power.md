@@ -3,7 +3,7 @@ date: July 7th 2019
 title: The Shift Of Power - From Country Power To Corporate Power
 description: A mudança de poder - do poder de um país ao poder corporativo
 category: business
-background: "#ffca3a"
+background: "#f6ae2d"
 ---
 
 <div>

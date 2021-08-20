@@ -44,7 +44,7 @@ collections:
           widget: "select",
           options:
             [
-              { label: "Business", value: "#ffca3a" },
+              { label: "Business", value: "#f6ae2d" },
               { label: "Finance", value: "#8ac926" },
               { label: "Human Resources", value: "#f15946" },
               { label: "Marketing", value: "#6a4c93" },

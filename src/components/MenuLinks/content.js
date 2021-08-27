@@ -8,27 +8,27 @@ const links = [
     url: "/about/",
   },
   {
-    label: "Marketing",
+    label: "",
     url: "/marketing/",
   },
   {
-    label: "Business",
+    label: "",
     url: "/business/",
   },
   {
-    label: "Finance",
+    label: "",
     url: "/finance/",
   },
   {
-    label: "Travel and Tourism",
+    label: "",
     url: "/travel-and-tourism/",
   },
   {
-    label: "Public Relations",
+    label: "",
     url: "/public-relations/",
   },
   {
-    label: "Human Resourses",
+    label: "",
     url: "/human-resourses/",
   },
 ]

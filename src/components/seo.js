@@ -27,7 +27,7 @@ function SEO({ description, lang, meta, title, image }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const defaultTitle = site.siteMetadata?.title
+  const defaultTitle = `${site.siteMetadata?.title} | Giovany Almeida Translator`
 
   const url = site.siteMetadata.siteUrl
   const ogImage = `${url}${image || "/assets/img/cover.png"}`

@@ -97,6 +97,9 @@ export const MainContent = styled.section`
   }
   p {
     margin: 0 auto 1.6rem;
+    ${media.lessThan("large")`
+      font-size: 1rem;
+    `}
   }
   h1,
   h2,
